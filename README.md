@@ -1,6 +1,6 @@
 # classification-modeling-optimization
 
-Objectives
+Objectives:
 Better promote / predict the "Halfway there" product to a wider audience.
 
 Feature Engineering:
